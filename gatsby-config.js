@@ -1,33 +1,33 @@
 module.exports = {
   siteMetadata: {
-    title: `Seb Stuart-Banks's blog`,
+    title: `Novela by Narative`,
     name: `Narative`,
-    siteUrl: `https://sebstuart-banks.co.uk`,
-    description: `Sharing my thoughts and ideas for a better world`,
+    siteUrl: `https://novela.narative.co`,
+    description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to my blog, be inspired and be curious.`,
+      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/`,
+        url: `https://twitter.com/narative`,
       },
       {
         name: `github`,
-        url: `https://github.com/`,
+        url: `https://github.com/narative`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/`,
+        url: `https://instagram.com/narative.co`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/`,
+        url: `https://www.linkedin.com/company/narative/`,
       },
       {
         name: `dribbble`,
-        url: `https://dribbble.com/,
+        url: `https://dribbble.com/narativestudio`,
       },
     ],
   },
