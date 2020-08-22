@@ -5,7 +5,8 @@ module.exports = {
     siteUrl: `https://novela.narative.co`,
     description: `Blog`,
     hero: {
-      heading: `Gatsby.`,
+      heading: `Seb Stuart-Banks`,
+      heading: 'A personal blog.',
       maxWidth: 800,
     },
     social: [
