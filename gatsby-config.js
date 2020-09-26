@@ -6,29 +6,13 @@ module.exports = {
     description: `Blog`,
     hero: {
       heading: `Seb Stuart-Banks`,
-      heading: 'A personal blog.',
+      heading: 'Welcome and thanks for popping by. I hope you learn more about what interests me and gain something from the ideas I share. ',
       maxWidth: 800,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/en/sstuartbanks`,
       },
     ],
   },
