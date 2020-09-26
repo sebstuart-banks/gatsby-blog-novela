@@ -6,7 +6,7 @@ module.exports = {
     description: `Blog`,
     hero: {
       heading: `Seb Stuart-Banks`,
-      heading: 'Welcome and thanks for popping by. I hope you learn more about what interests me and gain something from the ideas I share. ',
+      heading: 'Hey, thanks for popping by.',
       maxWidth: 800,
     },
     social: [
