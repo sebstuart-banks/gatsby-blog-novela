@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: `Seb Stuart-Banks`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    name: `Seb Stuart-Banks`,
+    siteUrl: `https://sebstuart-banks.co.uk`,
     description: `Blog`,
     hero: {
       heading: `Seb Stuart-Banks`,
-      heading: 'Hey, thanks for popping by.',
+      heading: 'Hey, welcome! I am excited to share with you a collection of my thoughts and stories that are important to me.',
       maxWidth: 800,
     },
     social: [
